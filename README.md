@@ -1,19 +1,21 @@
 # Salman Chowdhury
 
-AI/ML & full-stack engineer (UQ Master of IT – AI/ML) in Brisbane.
-I build agentic LLM workflows, geospatial/map apps, and data automation that ship fast, stay maintainable, and respect privacy.
+Applied AI, machine learning, and software projects.
 
-## What I do
-- LLM integration & agents: tool use/functions, evals & guardrails, RAG on your data
-- Web/Mobile MVPs: React, Next.js, Firebase/Node — snappy UX, auth, roles, deploys
-- Geospatial & realtime: incident/closure feeds, filters, ETA logic, clean map UX
-- Data & ML: pipelines, ranking/forecasting/anomaly detection; reproducible runs
+## Focus
+- Machine learning and deep learning
+- LLM apps and AI assistants
+- Automation and data workflows
+- Practical portfolio projects with clear outcomes
+
+## Featured Projects
+- [DL_stock_pred](https://github.com/salman-uq2024/DL_stock_pred) — Deep learning time-series stock prediction project with improved evaluation, reproducibility, and reporting
+- [ai-faq-chatbot](https://github.com/salman-uq2024/ai-faq-chatbot) — LLM-powered FAQ chatbot focused on practical AI assistant workflows
+- [web-to-sheets](https://github.com/salman-uq2024/web-to-sheets) — Automation tool for moving structured web data into Google Sheets
+- [saas-starter](https://github.com/salman-uq2024/saas-starter) — Starter SaaS template for quickly building product prototypes
 
 ## Tech
-Python, JS/TS, Java • React, Next.js, Vite, Firebase, Node
-PyTorch, scikit-learn • Postgres/SQLite/DuckDB • OpenRouter, Qwen, Ollama • REST/GraphQL
-GitHub Actions • Mapbox/Leaflet/Google Maps
+Python • TypeScript • SQL • Next.js • APIs • ML workflows
 
-## Availability
-AEST (UTC+10). Open to freelance/contract.
-Contact: salman.chowdhury@student.uq.edu.au · salman.ananda.chowdhury@gmail.com
+## Current Direction
+Building practical AI, ML, and automation projects that are easy to explain, demo, and extend.
